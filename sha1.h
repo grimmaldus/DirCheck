@@ -1,3 +1,9 @@
+/*	This version written November 2000 by David Ireland of 
+	DI Management Services Pty Limited <code@di-mgt.com.au>
+	Adapted from code in the Python Cryptography Toolkit, 
+	version 1.0.0 by A.M. Kuchling 1995.
+*/
+
 #ifndef SHA1_H
 #define SHA1_H
 
