@@ -1,2 +1,7 @@
 # DirCheck
-Generate XML file of directory structure 
+Travers directory structure using recursive DFS and generates XML of this structure as an output. 
+# Syntax
+dircheck [options] [path / file]
+# Options
+[-s, --save] Generates XML file of directury structure
+[-c, --check] Reads given XML file in format: root_element->properties->children->content 
