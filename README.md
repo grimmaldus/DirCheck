@@ -3,5 +3,5 @@ Travers directory structure using recursive DFS and generates XML of this struct
 # Syntax
 dircheck [options] [path / file]
 # Options
-[-s, --save] Generates XML file of directury structure /n
+[-s, --save] Generates XML file of directury structure <br />
 [-c, --check] Reads given XML file in format: root_element->properties->children->content 
