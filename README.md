@@ -1,5 +1,6 @@
 # DirCheck
-Travers directory structure using recursive DFS and generates XML as an output. 
+Travers directory structure using recursive DFS and generates XML as an output.
+sh1.h,sh1.c is third party.
 # Syntax
 dircheck [options] [path / file]
 # Options
