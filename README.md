@@ -1,5 +1,5 @@
 # DirCheck
-Travers directory structure using recursive DFS and generates XML of this structure as an output. 
+Travers directory structure using recursive DFS and generates XML as an output. 
 # Syntax
 dircheck [options] [path / file]
 # Options
